@@ -1,31 +1,41 @@
 class Solution {
 public:
-    int shipWithinDays(vector<int>& weights, int days) {
-        int lo = *max_element(weights.begin(), weights.end());
-        int hi = accumulate(weights.begin(), weights.end(), 0);
-
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (canShip(weights, days, mid)) {
-                hi = mid;       // try smaller capacity
-            } else {
-                lo = mid + 1;   // need more capacity
+    bool check(int mid,vector<int>& weights,int days){
+        int n=weights.size();
+        int m=mid;
+        int count=1;
+        for(int i=0;i<n;i++){
+            if(m>=weights[i]){
+                m-=weights[i];
+            }
+            else{
+                count++;
+                m=mid;
+                m-=weights[i];
             }
         }
-        return lo;
+        if(count>days) return false;
+        else return true;
     }
-
-private:
-    bool canShip(vector<int>& weights, int days, int capacity) {
-        int daysNeeded = 1;
-        int curLoad = 0;
-        for (int w : weights) {
-            if (curLoad + w > capacity) {
-                daysNeeded++;
-                curLoad = 0;
-            }
-            curLoad += w;
+    int shipWithinDays(vector<int>& weights, int days) {
+        int n=weights.size();
+        int max=INT_MIN;
+        int sum=0;
+        for(int i=0;i<n;i++){
+            if(max<weights[i]) max=weights[i];
+            sum+=weights[i];
         }
-        return daysNeeded <= days;
+        int lo=max;
+        int hi=sum;
+        int minCapacity=sum;
+        while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(check(mid,weights,days)){
+                minCapacity=mid;
+                hi=mid-1;
+            }
+            else lo=mid+1;
+        }
+        return minCapacity;
     }
 };
