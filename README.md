@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ashmit6788/My-Leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ashmit6788/My-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
