@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
