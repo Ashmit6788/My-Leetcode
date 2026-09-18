@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bracket Sequences
 |  |
 | ------- |
