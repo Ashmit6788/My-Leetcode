@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
