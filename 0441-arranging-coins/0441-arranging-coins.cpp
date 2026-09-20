@@ -1,11 +1,17 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int row = 0;
-        while (n >= row + 1) {   // enough coins for the next row?
-            row++;               // build that row
-            n -= row;            // spend its coins
+        long long lo = 0, hi = n, ans = 0;
+        while (lo <= hi) {
+            long long mid = lo + (hi - lo) / 2;
+            long long need = mid * (mid + 1) / 2;   // coins needed for mid rows
+            if (need <= n) {
+                ans = mid;      // mid rows fit, save it and try more
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;   // too many rows, try fewer
+            }
         }
-        return row;
+        return ans;
     }
 };
