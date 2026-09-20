@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashmit6788/My-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
 | ------- |
