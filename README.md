@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ashmit6788/My-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Ashmit6788/My-Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Ashmit6788/My-Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bracket Sequences
 |  |
