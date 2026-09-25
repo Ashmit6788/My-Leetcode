@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## String Matching
 |  |
