@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashmit6788/My-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
