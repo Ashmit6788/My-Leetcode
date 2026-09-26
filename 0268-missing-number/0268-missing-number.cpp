@@ -2,15 +2,14 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int actsum = n*(n+1)/2;
-        int miss =0;
-        int sum=0;
+        vector<bool> check(n+1,false);
         for(int i=0;i<n;i++){
-            sum+=nums[i];
+            int ele = nums[i];
+            check[ele]= true;
         }
-        if(sum!=actsum){
-            miss = actsum-sum;
+        for(int i=0;i<=n;i++){
+            if(check[i]==false) return i;
         }
-        return miss;
+        return 100;
     }
 };
