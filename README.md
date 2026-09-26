@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ashmit6788/My-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashmit6788/My-Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Ashmit6788/My-Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bracket Sequences
 |  |
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
