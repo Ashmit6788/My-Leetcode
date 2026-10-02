@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
@@ -219,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ashmit6788/My-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ashmit6788/My-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
