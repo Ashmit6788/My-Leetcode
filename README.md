@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ashmit6788/My-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashmit6788/My-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
+| [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ashmit6788/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
+| [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
 | ------- |
