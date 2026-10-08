@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
