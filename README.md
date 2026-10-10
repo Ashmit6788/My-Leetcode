@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Ashmit6788/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashmit6788/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ashmit6788/My-Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Ashmit6788/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
