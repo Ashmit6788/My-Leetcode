@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashmit6788/My-Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashmit6788/My-Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ashmit6788/My-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
