@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -260,5 +262,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
