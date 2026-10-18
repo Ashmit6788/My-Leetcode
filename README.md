@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashmit6788/My-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ashmit6788/My-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Ashmit6788/My-Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0507-perfect-number) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Ashmit6788/My-Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
@@ -271,13 +274,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ashmit6788/My-Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
