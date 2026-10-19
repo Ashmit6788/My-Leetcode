@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Ashmit6788/My-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ashmit6788/My-Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ashmit6788/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/Ashmit6788/My-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
