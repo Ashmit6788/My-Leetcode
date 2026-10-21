@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ashmit6788/My-Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Ashmit6788/My-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ashmit6788/My-Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Ashmit6788/My-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashmit6788/My-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashmit6788/My-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashmit6788/My-Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ashmit6788/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/Ashmit6788/My-Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
