@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ashmit6788/My-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ashmit6788/My-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ashmit6788/My-Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ashmit6788/My-Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashmit6788/My-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ashmit6788/My-Leetcode/tree/master/0078-subsets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ashmit6788/My-Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Ashmit6788/My-Leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Ashmit6788/My-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashmit6788/My-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ashmit6788/My-Leetcode/tree/master/0204-count-primes) |
