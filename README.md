@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ashmit6788/My-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashmit6788/My-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashmit6788/My-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Ashmit6788/My-Leetcode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ashmit6788/My-Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ashmit6788/My-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1402-reducing-dishes](https://github.com/Ashmit6788/My-Leetcode/tree/master/1402-reducing-dishes) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/Ashmit6788/My-Leetcode/tree/master/1046-last-stone-weight) |
 ## String
 |  |
 | ------- |
