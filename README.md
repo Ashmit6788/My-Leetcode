@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashmit6788/My-Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1748-sum-of-unique-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashmit6788/My-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashmit6788/My-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ashmit6788/My-Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashmit6788/My-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ashmit6788/My-Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Divide and Conquer
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashmit6788/My-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashmit6788/My-Leetcode/tree/master/0229-majority-element-ii) |
+| [1748-sum-of-unique-elements](https://github.com/Ashmit6788/My-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashmit6788/My-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
