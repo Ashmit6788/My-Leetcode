@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashmit6788/My-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashmit6788/My-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashmit6788/My-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ashmit6788/My-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ashmit6788/My-Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
